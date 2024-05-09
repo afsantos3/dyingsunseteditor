@@ -1,0 +1,3 @@
+#define dyingsunseteditor_VERSION_MAJOR @dyingsunseteditor_VERSION_MAJOR@
+#define dyingsunseteditor_VERSION_MINOR @dyingsunseteditor_VERSION_MINOR@
+#define dyingsunseteditor_VERSION_PATCH @dyingsunseteditor_VERSION_PATCH@
